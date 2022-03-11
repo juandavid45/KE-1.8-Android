@@ -374,36 +374,36 @@ class TitleState extends MusicBeatState
 					addMoreText('KadeDeveloper');
 				else
 				{
-					addMoreText('Newgrounds');
+					addMoreText('BoBicraft shit');
 					ngSpr.visible = true;
 				}
-			// credTextShit.text += '\nNewgrounds';
+			// credTextShit.text += '\nbobi nwn';
 			case 8:
 				deleteCoolText();
 				ngSpr.visible = false;
 			// credTextShit.visible = false;
 
-			// credTextShit.text = 'Shoutouts Tom Fulp';
+			// credTextShit.text = 'Te amo Bobi';
 			// credTextShit.screenCenter();
 			case 9:
 				createCoolText([curWacky[0]]);
 			// credTextShit.visible = true;
 			case 11:
 				addMoreText(curWacky[1]);
-			// credTextShit.text += '\nlmao';
+			// credTextShit.text += '\nwn';
 			case 12:
 				deleteCoolText();
 			// credTextShit.visible = false;
-			// credTextShit.text = "Friday";
+			// credTextShit.text = "Vs";
 			// credTextShit.screenCenter();
 			case 13:
-				addMoreText('Friday');
+				addMoreText('Bobi');
 			// credTextShit.visible = true;
 			case 14:
-				addMoreText('Night');
+				addMoreText('Craft');
 			// credTextShit.text += '\nNight';
 			case 15:
-				addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+				addMoreText('Edition'); // credTextShit.text += '\nEdition';
 
 			case 16:
 				skipIntro();
